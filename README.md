@@ -11,6 +11,6 @@ Future work:
 
 This assignment has been turned in by:
 
-  *Oren Shor
-  *Ilay Friedman
-  *Saar Guttman
+  * Oren Shor
+  * Ilay Friedman
+  * Saar Guttman
