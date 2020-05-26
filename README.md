@@ -4,7 +4,7 @@ as part of the 4th year of Software and Information Systmes Engineering degree.
 In this repository you can find the given assignment, and the notebooks we've written.
 
 The first part (Questions 1, 2) deal with tabular timeseries data, and mainly revovles around implementing a RNN using LSTM layers.
-The second part (Quesiton 3) deals with category embedding, and demands different techniques such as embedding layers, feature extraction etc.
+The second part (Question 3) deals with category embedding, and demands different techniques such as embedding layers, feature extraction etc.
 
 Future work:
   * Question 3: Employ an LSTM layer, which will take advantage of the timeseries characteristic of the data.
